@@ -1,0 +1,8 @@
+{
+  "name": "StreamNexus OTT",
+  "description": "A high-performance, Netflix-inspired OTT platform with PWA support, admin panel, secure streaming, and offline playback simulation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
